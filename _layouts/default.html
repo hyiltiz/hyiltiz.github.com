@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="{{ site.author }}" />
+    <title>{{ page.title }} | {{ site.author }}</title>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="{{ site.url }}/feed/" rel="alternate" title="{{ site.author }}" type="application/atom+xml" />
+    <link rel="stylesheet" href="/media/css/style.css">
+    <link rel="stylesheet" href="/media/css/highlight.css">
+    <script type="text/javascript" src="/media/js/jquery-1.7.1.min.js"></script>
+  </head>
+  <body>
+    <div id="container">
+      <div id="main" role="main">
+        <header>
+        <h1>{{ page.title }}</h1>
+        </header>
+        <nav>
+        <!--<span><a title="home page" class="" href="{{ site.url }}/./">Home</a></span>-->
+        <span><a title="posts" class="" href="{{ site.url }}/./">Home</a></span>
+        <!--<span><a title="vitae" class="" href="{{ site.url }}/vitae/">vitae</a></span>-->
+        <span><a title="CV" class="" href="{{ site.url }}/media/pdf/Yiltiz2019_CV.pdf">curriculum vitae</a></span>
+        <span><a title="publication" class="" href="{{ site.url }}/publication/">publication</a></span>
+        <!-- <span><a title="about" class="" href="{{ site.url }}/about/">News</a></span> -->
+        <!-- <span><a title="aboutme" class="" href="{{ site.url }}/aboutme/">about me</a></span> -->
+        <!-- <span><a title="contacts" class="" href="{{ site.url }}/contacts/">contacts</a></span> -->
+
+
+        </nav>
+        <article class="content">
+        {{ content }}
+        </article>
+      </div>
+    </div>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-37620573-4', 'github.com');
+      ga('send', 'pageview');
+
+    </script>
+  </body>
+</html>

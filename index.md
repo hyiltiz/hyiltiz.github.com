@@ -1,17 +1,14 @@
 ---
-layout: home
-avatar: yes
+layout: page
+title: Hörmet Yiltiz
+COMMENTS: no
 ---
 
-Welcome to Hörmet's (pron.: /hør'mɛt/) personal page! My full name is Hörmetjan Yiltiz, while *-jan* (pron.: /d͡ʒɑn/) being the suffix for male names in [Uyghur][] and *Yiltiz* (pron.: /jIl'tɪ̈z/) being the famliy name. You may just call me Hörmet for convenience, and I wouldn't mind if you cannot pronounce it well. If in trouble, just call hermit.
+:-------------------------:|:-------------------------:
+<img align="central" src="/media/image/homepage.jpg" height="90%" width="90%"> | I am a doctoral student at New York University, Department of Psychology. I am working with [Prof. Michael Landy](http://www.cns.nyu.edu/~msl/) and [Prof. David Heeger](http://www.cns.nyu.edu/~david/) on computational models of the visual system. Native pronunciation of my full name is /hør'mɛt jIl'tɪ̈z/ in [Uyghur](http://en.wikipedia.org/wiki/Uyghurs), but most call me by something that sounds like *hermit*, and I like it too. 
 
-I study Psychology in [Peking University][], and very passionate about [Free Software][fs], and quite interested in Philosophy, Physics and Mathematics.
-
-欢迎来到玉尔麦的个人主页！我全名是玉尔麦提江·伊里提孜。其实这个也不过是简化了的罢了，因为我有一个同学叫我用到25个字！不过前三个字足够特指我的时候，我就不介意了。
-
-我正在读心理学，热衷于[自由软件][fs]。大部分时间用来写程序和读文献，程序写好了就开始做实验。没错，[心理学的确可以做实验的][exp]。
-
-[Uyghur]: http://en.wikipedia.org/wiki/Uyghur_language
-[Peking University]: http://www.pku.edu.cn
-[fs]: http://www.gnu.org/philosophy/free-sw.html
-[exp]: /cn/_post/
+You can contact me via [hormetyiltiz@gmail.com](mailto:hormetyiltiz@gmail.com), or visit me at:  
+6 Washington Place  
+Room 957  
+New York, NY, 10003  
+ 

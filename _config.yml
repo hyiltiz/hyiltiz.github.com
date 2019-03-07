@@ -1,2 +1,5 @@
-markdown: rdiscount 
-# permalink: /:day-:month-:year/:title.html
+markdown: kramdown 
+permalink: /:day-:month-:year/:title.html
+url: http://hyiltiz.github.io
+author: hyiltiz
+rouge: true
