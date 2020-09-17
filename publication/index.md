@@ -6,9 +6,10 @@ comments: no
 
 # Papers
 
-* Yiltiz, H., & Chen, L. (2018). Emotional cues and social anxiety resolve ambiguous perception of biological motion. *Experimental Brain Research*. 236. doi:10.1007/s00221-018-5233-3.
-* Pelli, D. G., Waugh, S. J., Martelli, M., Crutch, S. J., Primativo, S., Yong, K. X., Rhodes, M., Yee, K., Wu, X., Famira, H. F., & Yiltiz, H. (2016). A clinical test for visual crowding. *F1000Research 5:81*. doi:10.12688/f1000research.7835.1
-* Yiltiz, H., & Chen, L. (2015). Tactile input and empathy modulate the perception of ambiguous biological motion. *Frontiers in  Psychology*, 6:161. doi:10.3389/fpsyg.2015.00161
+* Yiltiz, H., Heeger, D. J., & Landy, M. S. (2020). Contingent adaptation in masking and surround suppression. Vision Research, 166, 72–80. https://doi.org/10.1016/j.visres.2019.11.004
+* Yiltiz, H., & Chen, L. (2018). Emotional cues and social anxiety resolve ambiguous perception of biological motion. *Experimental Brain Research*. 236. https://doi.org/10.1007/s00221-018-5233-3
+* Pelli, D. G., Waugh, S. J., Martelli, M., Crutch, S. J., Primativo, S., Yong, K. X., Rhodes, M., Yee, K., Wu, X., Famira, H. F., & Yiltiz, H. (2016). A clinical test for visual crowding. *F1000Research 5:81*. https://doi.org/10.12688/f1000research.7835.1
+* Yiltiz, H., & Chen, L. (2015). Tactile input and empathy modulate the perception of ambiguous biological motion. *Frontiers in  Psychology*, 6:161. https://doi.org/10.3389/fpsyg.2015.00161
 
 # Conferences
 
