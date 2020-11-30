@@ -11,6 +11,5 @@ comments: no
 [<img align="left" src="/media/image/website.png" height="3%" width="3%">](http://hyiltiz.live/)      <http://hyiltiz.live/><br/>
 
 <img align="left" src="/media/image/address.png" height="3%" width="3%">                  6 Washington Place
- <br/>        Room 957
  <br/>         New York, NY, 10003
  

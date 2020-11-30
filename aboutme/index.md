@@ -10,6 +10,5 @@ comments: no
 
 [hormetyiltiz@gmail.com](mailto:hormetyiltiz@gmail.com)  
 6 Washington Place  
-Room 957  
 New York, NY, 10003  
  

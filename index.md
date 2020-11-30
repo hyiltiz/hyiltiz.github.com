@@ -9,6 +9,5 @@ I am a doctoral student at New York University, Department of Psychology. I am w
 
 You can contact me via [hormetyiltiz@gmail.com](mailto:hormetyiltiz@gmail.com), or visit me at:  
 6 Washington Place  
-Room 957  
 New York, NY, 10003  
  
